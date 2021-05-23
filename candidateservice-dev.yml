@@ -3,7 +3,7 @@ tracer:
 app:
   datasource:
     driverClassName: com.mysql.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/candidate
+    url: jdbc:mysql://mysqldb:3306/candidate
     username: root
     password: mysql
   jpa:

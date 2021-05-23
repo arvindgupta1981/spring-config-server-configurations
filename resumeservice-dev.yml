@@ -5,7 +5,7 @@ app:
     driverClassName: com.mysql.jdbc.Driver
     url: jdbc:mysql://localhost:3306/resume
     username: root
-    password: mysql
+    password: ARvind@1981
   jpa:
     hibernate.ddl-auto: update
     generate-ddl: true
