@@ -3,9 +3,9 @@ tracer:
 app:
   datasource:
     driverClassName: com.mysql.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/resume
+    url: jdbc:mysql://mysqldb:3306/resume
     username: root
-    password: ARvind@1981
+    password: mysql
   jpa:
     hibernate.ddl-auto: update
     generate-ddl: true
